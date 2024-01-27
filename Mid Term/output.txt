@@ -1,0 +1,1 @@
+Yes, S and D are in the same component.

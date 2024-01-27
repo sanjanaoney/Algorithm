@@ -1,0 +1,5 @@
+Distance of node 1: 0
+Distance of node 2: 3
+Distance of node 3: 2
+Distance of node 4: 4
+Distance of node 5: 5
